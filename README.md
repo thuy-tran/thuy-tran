@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thuy-tran
-- 👀 I’m interested in Applied Artificial Intelligence in Insurance Sector
-- 🌱 I’m currently learning Deep Learning, Natural Language Processing in Python, R
-- 💞️ I’m looking to collaborate on project related to NLP
+- 👀 I’m interested in Applied Artificial Intelligence, Data Science.
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing in Python, R.
+- 💞️ I’m looking to collaborate on project related to NLP.
 - 📫 How to reach me : Just leave me a message here and we can chat!
 
 <!---
