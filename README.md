@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thuy-tran
+- 👋 Hi, I’m @thuy-tran , 4th year IT student.
 - 👀 I’m interested in Applied Artificial Intelligence, Data Science.
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing in Python, R.
 - 💞️ I’m looking to collaborate on project related to NLP.
